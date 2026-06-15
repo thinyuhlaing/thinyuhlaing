@@ -1,63 +1,68 @@
-# Thin Yu Hlaing
+# Hi, I'm Thin Yu Hlaing 👋
 
-Web Developer @ BEE Data Myanmar Software Solutions  
-2+ Years Experience
-
----
-
-## About
-
-I am a web developer focused on building scalable and reusable web applications.
-
-My main focus is improving **modular architecture in Next.js** and maintaining clean, maintainable codebases for real business systems.
+Web Developer at **BEE Data Myanmar Software Solutions**  
+💼 2+ Years Experience | 🚀 Building scalable web applications
 
 ---
 
-## Experience
+## 👨‍💻 About Me
 
-**BEE Data Myanmar Software Solutions**  
-Web Developer (2+ Years)
+I am a web developer focused on building **modern, scalable, and reusable web systems**.
 
-- Develop enterprise web applications
-- Work with ERP-related systems (business workflows)
-- Build reusable frontend architecture using React & Next.js
-- Integrate backend APIs using NestJS
+My main interest is designing **modular architecture in Next.js** to improve maintainability and performance in real-world applications.
 
 ---
 
-## Tech Stack
+## 🏢 Experience
 
-**Frontend**
+### BEE Data Myanmar Software Solutions
+**Web Developer (2+ Years)**
+
+- Developed enterprise-level web applications
+- Worked on ERP-style business systems
+- Built reusable frontend architecture with React & Next.js
+- Integrated backend services using NestJS
+- Collaborated with teams to deliver production systems
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
 - React.js
 - Next.js
 - Tailwind CSS
 
-**Backend**
+### Backend
 - NestJS
 
-**Tools**
+### Tools
 - Git
 - Docker
 - VS Code
 
 ---
 
-## Current Focus
+## 🧠 Current Focus
 
 - Modular architecture in Next.js
-- Feature-based project structure
-- Reusable components & hooks
-- Scalable frontend systems for enterprise apps
+- Scalable frontend folder structure
+- Reusable components & hooks system
+- Clean API integration patterns (NestJS backend)
+- Maintainable enterprise-grade UI systems
 
 ---
 
-## Contact
+## 📫 Contact
 
-Email: **thinyu.contact@gmail.com**
+- 📧 Email: **thinyu.contact@gmail.com**
+- 🏢 Company: BEE Data Myanmar Software Solutions
+- 📍 Location: Yangon, Myanmar
 
 ---
 
-## Philosophy
+## 💡 Philosophy
 
-> Clean code > clever code  
-> Scalability > shortcuts
+> “Good architecture makes features easy, not hard.”
+
+---
