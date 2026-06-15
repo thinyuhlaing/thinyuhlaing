@@ -1,68 +1,103 @@
-<div align="center">
+<!-- ===================== HERO ===================== -->
 
-# 🚀 [Your Project Name]
+<h1 align="center">Hi 👋, I'm Thin Yu Hlaing</h1>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
+<h3 align="center">
+Web Developer @ Bee Data Myanmar | 2+ Years Experience
+</h3>
 
-**[A short, catchy, and concise description of what your project does.]**
-
-[Live Demo](https://your-demo-link.com) · [Report Bug](https://github.com/your-username/your-repo/issues) · [Request Feature](https://github.com/your-username/your-repo/issues)
-
-</div>
-
----
-
-## 📖 Table of Contents
-* [About the Project](#-about-the-project)
-* [Features](#-features)
-* [Built With](#-built-with)
-* [Getting Started](#-getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#-usage)
-* [Contributing](#-contributing)
-* [License](#-license)
-* [Contact](#-contact)
+<p align="center">
+🚀 Building scalable web apps with clean & reusable architecture  
+🧠 Focused on modular design in Next.js  
+</p>
 
 ---
 
-## 💡 About the Project
+<!-- ===================== TYPING ANIMATION ===================== -->
 
-[Write a detailed description of your project here. Explain *why* you built it, the problem it solves, and what makes it awesome. Add a screenshot or GIF below if you have a UI!]
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x300?text=Your+Project+Screenshot+or+GIF" alt="Project Screenshot">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;React+%7C+Next.js+%7C+NestJS;Modular+Architecture+Enthusiast;Clean+Code+Advocate;2%2B+Years+Experience" />
+</p>
 
 ---
 
-## ✨ Features
+## 🧑‍💻 About Me
 
-* **[Feature 1]:** [Brief description of the feature].
-* **[Feature 2]:** [Brief description of the feature].
-* **[Feature 3]:** [Brief description of the feature].
-* **Fast & Lightweight:** Built for optimal performance.
-
----
-
-## 🛠 Built With
-
-* [![Tech 1](https://img.shields.io/badge/Tech1-000000?style=flat&logo=logo&logoColor=white)]()
-* [![Tech 2](https://img.shields.io/badge/Tech2-000000?style=flat&logo=logo&logoColor=white)]()
-* [![Tech 3](https://img.shields.io/badge/Tech3-000000?style=flat&logo=logo&logoColor=white)]()
-
-*(Note: You can generate custom tech badges using [Shields.io](https://shields.io/))*
+- 💼 Working at **Bee Data Myanmar**
+- 🧠 2+ years experience in web development
+- 🏗️ Passionate about **scalable + reusable code structure**
+- ⚡ Focus: **Next.js modular architecture & clean backend design**
+- 📫 Email: **thinyu.contact@gmail.com**
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ Tech Stack
 
-Follow these simple steps to get a local copy up and running.
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Prerequisites
+### 🧠 Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-Make sure you have [Software/Tool] installed.
-```bash
-npm install npm@latest -g
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🧱 Current Focus (Important)
+
+> 💡 Building **highly reusable modular architecture in Next.js**
+
+✔ Feature-based folder structure  
+✔ Reusable UI components system  
+✔ Custom hooks & utility layers  
+✔ Scalable API integration patterns  
+✔ Clean separation of frontend logic  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:thinyu.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Developer Quote
+
+<p align="center">
+  <i>"First make it work, then make it right, then make it fast."</i>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
