@@ -1,22 +1,30 @@
-# 👋 Hi, I'm Thin Yu Hlaing
+<h1 align="center">Hi 👋, I'm Thin Yu Hlaing</h1>
+<h3 align="center">💻 Web App Developer • Enterprise Solution Developer</h3>
 
-💻 **Web App Developer**  
-🚀 Building scalable web applications and enterprise solutions.
+<p align="center">
+Building scalable web applications with modern technologies and enterprise platforms.
+</p>
 
----
-
-## 🙋‍♂️ About Me
-
-- 💼 Web App Developer @ **BEE Data Myanmar**
-- 🌱 Learning and building with **Next.js, NestJS, Odoo**
-- 🏗️ Interested in **Clean Architecture & Modular Systems**
-- ⚡ Love creating efficient and maintainable software
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=thinyuhlaing&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+- 💼 Web App Developer at **BEE Data Myanmar**
+- 🌱 Currently learning **Next.js**, **NestJS**, and **Odoo**
+- 🏗️ Passionate about **Clean Architecture** and **Modular Systems**
+- 🔌 Enjoy integrating modern applications with enterprise platforms
+- 🚀 Always improving code quality, performance, and maintainability
+
+---
+
+# 🛠 Tech Stack
 
 ### 🎨 Frontend
+
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -25,19 +33,22 @@
 </p>
 
 ### ⚙️ Backend
+
 <p>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🏢 Enterprise Platforms
+### 🏢 Enterprise
+
 <p>
 <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white"/>
 </p>
 
-### 🗄️ Database & DevOps
+### 🗄 Database & DevOps
+
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -47,25 +58,7 @@
 
 ---
 
-## 🧱 Architecture Interests
-
-📦 **Feature-Based Architecture**  
-→ Building scalable and maintainable applications.
-
-🔄 **API Integration**  
-→ Connecting modern apps with enterprise systems.
-
-🛡️ **Enterprise Customization**  
-→ Extending ERP/LMS platforms with clean solutions.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thinyuhlaing&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinyuhlaing&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+# 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thinyuhlaing&theme=tokyonight&hide_border=true"/>
@@ -73,30 +66,22 @@
 
 ---
 
-## 📫 Contact
-
-📧 Email: **thinyu.contact@gmail.com**  
-💻 GitHub: **@thinyuhlaing**
-
----
-
-⭐ **Thanks for visiting my profile!**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thinyuhlaing&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinyuhlaing&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thinyuhlaing&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thinyuhlaing&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Contact
+# 📫 Connect With Me
 
-📧 Email: **thinyu.contact@gmail.com**  
-💻 GitHub: **@thinyuhlaing**
+📧 **Email:** thinyu.contact@gmail.com
+
+🐙 **GitHub:** https://github.com/thinyuhlaing
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
