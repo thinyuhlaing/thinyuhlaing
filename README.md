@@ -76,7 +76,7 @@ Building scalable web applications with modern technologies and enterprise platf
 
 # 📫 Connect With Me
 
-📧 **Email:** thinyu.contact@gmail.com
+📧 **Email:** its.thinyu@gmail.com
 
 🐙 **GitHub:** https://github.com/thinyuhlaing
 
